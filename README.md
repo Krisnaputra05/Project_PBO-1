@@ -27,6 +27,7 @@ Jika *admin* memilih lihat restaurant, admin dapat melihat id, nama, dan alamat 
 
 **2.2. Menu Admin(*Lihat Restaurant*)** 
 Jika admin memilih tambah data restaurant, admin dapat menambahkan restaurant baru pada program dengan meng-inputkan id, nama, dan alamat restaurant juga menu yang di jual oleh restaurant. Berikut adalah tampilan dari menu admin *(tambah data restaurant)*.
+
 ![Screenshot 2024-05-03 013221](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/f25412d1-97b8-48b7-8cf3-f954413e07d0)
 
 **2.3 Menu Admin (Hapus Data Restaurant)** 

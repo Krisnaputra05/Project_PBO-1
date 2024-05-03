@@ -71,6 +71,7 @@ Jika customer memilih lihat pesanan, customer dapat melihat kembali data - data 
 SEKIAN PENJELASAN DARI SAYA SEMOGA SEHAT SELALU✨
 
 ### I GEDE KRISNA PRADNYA PUTRA (2305551023)
+### I GUSTI KOMANG DAMAR ARI SUPUTRA (2305551165)
 
 
 

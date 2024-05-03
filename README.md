@@ -1,6 +1,6 @@
 # Projek_PBO-1
 ## ETERNALS FOOD
-Merupakan Program Sederhana yang Menggunakan Bahasa *Java* Yang memungkinkan customer untuk memesan makanan secara online.Program ini digunakan untuk memenuhi salah satu tugas mata kuliah Pemrograman Berbasis Objek.
+Eternalas food Merupakan Program Sederhana yang Menggunakan Bahasa *Java* Yang memungkinkan customer untuk memesan makanan secara online. Eternals sendiri memiliki arti yaitu kekal abadi yang dimana Program ini senantiasa akan ada untuk memenuhi kebutuhan user diwaktu kapanpun.Program ini digunakan untuk memenuhi salah satu tugas mata kuliah Pemrograman Berbasis Objek.
 
 ## UML(Unified Modeling Language)
 UML adalah singkatan dari Unified Modeling Language *(Bahasa Pemodelan Terpadu)*. Ini adalah bahasa standar yang digunakan untuk memodelkan, mendokumentasikan, dan merancang sistem perangkat lunak, terutama dalam pengembangan perangkat lunak berbasis objek. UML menyediakan serangkaian notasi grafis yang dapat digunakan untuk menggambarkan struktur dan perilaku dari sebuah sistem.
@@ -31,8 +31,8 @@ Jika admin memilih tambah data restaurant, admin dapat menambahkan restaurant ba
 ![Screenshot 2024-05-03 013221](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/f25412d1-97b8-48b7-8cf3-f954413e07d0)
 
 **2.3 Menu Admin (Hapus Data Restaurant)** 
-Jika admin memilih hapus data restaurant, admin dapat menghapus restaurant yang terdapat pada program dengan meng-inputkan id restaurantnya. Berikut adalah tampilan dari menu admin *(hapus data restaurant)*.
-
+Jika admin memilih hapus data restaurant, admin dapat menghapus restaurant yang terdapat pada program dengan meng-inputkan id restaurantnya. Berikut adalah tampilan dari menu admin *(hapus data restaurant)*
+.
 ![Screenshot 2024-05-03 013445](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/b6203955-1468-417b-8066-03c85805f322)
 
 **3. Menu Customer**
@@ -43,23 +43,24 @@ Jika user melakukan input pada menu login berupa username dan password customer 
 **3.1 Menu Customer (Lihat Restaurant)**
 Jika customer memilih lihat restaurant, customer dapat melihat id, nama, dan alamat restaurant serta menu yang di jual oleh restaurant sama halnya dengan yang ada pada menu admin. Berikut adalah tampilan dari menu customer *(lihat restaurant)*
 
-![Screenshot 2024-05-03 013221](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/171599a1-804a-43d4-adc7-53066cf15602)
-
+![MENU CUSTOMER(LIHAT MENU)](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/6b6ab003-b7b1-42f9-b889-0a5238408ca2)
 
 **3.2 Menu Customer (Tambah Pesanan)**
 Jika customer memilih tambah pesanan, customer dapat membeli makanan atau minuman pada restaurant yang terdapat pada program. Customer dalam menu ini meng-inputkan id restaurant, id menu yang ingin dibeli, jumlah menu yang ingin dibeli, dan juga jarak antara restaurant dan lokasi customer. Berikut adalah tampilan dari menu customer *(tambah pesanan)*.
 
-![Screenshot 2024-05-03 013314](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/e99c2560-5e47-4e9b-8b4e-cce487fa6826)
+![Screenshot 2024-05-03 013221](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/171599a1-804a-43d4-adc7-53066cf15602)
 
 **3.3 Menu Customer (Lihat Pesanan)** 
 Jika customer memilih lihat pesanan, customer dapat melihat kembali data - data terkait dengan pesanan yang telah dilakukan sebelumnya, Berikut adalah tampilan dari menu customer *(lihat pesanan)*.
 
-![Screenshot 2024-05-03 013445](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/0441c0ff-6dea-44bc-902b-d89a0547f281)
+![Screenshot 2024-05-03 013314](https://github.com/Krisnaputra05/Project_PBO-1/assets/147183291/e99c2560-5e47-4e9b-8b4e-cce487fa6826)
 
 
 # PENUTUP
-SEKIAN DARI KAMI SEMOGA SEHAT SELALU✨
+SEKIAN PENJELASAN DARI SAYA SEMOGA SEHAT SELALU✨
 
 ### I GEDE KRISNA PRADNYA PUTRA (2305551023)
+
+
 
 
